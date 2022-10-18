@@ -1,2 +1,2 @@
 # mlp_iris
-**This is University project with my mlp implementation for Iris processing**
+**This is University project with my mlp implementation for classification**
