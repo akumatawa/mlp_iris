@@ -1,14 +1,15 @@
 # mlp_iris
 **This is University project with my MLP implementation for iris classification**
 
-The best result with 100% accuracy on test set was achieved with:
+The best result with 100% accuracy on test set was achieved.
 
-(4, 10, 3) neurons;
+Parameter | value
+-------------|-------------
+epoches | 500
+dataset split | 70/30
+learning rate | 0.2
+input layer | 4 neurons
+hidden layer | 10 neurons
+output layer | 3 neuron
 
-500 epoches;
-
-0.2 learning rate;
-
-70/30 dataset split.
-
-![alt text](https://github.com/akumatawa/mlp_iris/blob/main/learning_curve.jpg?raw=true)
+![](https://github.com/akumatawa/mlp_iris/blob/main/learning_curve.jpg?raw=true)
